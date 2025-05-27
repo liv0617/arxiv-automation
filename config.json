@@ -5,5 +5,6 @@
   "categories": ["cs.AI", "cs.LG", "cs.CL"],
   "max_results": 5,
   "cache_dir": "paper_cache",
-  "run_time": "16:00"
+  "run_time": "16:00",
+  "user_interests": "I am interested in mechanistic interpretability research, particularly work on sparse features and circuits, feature manifolds, geometry of representations, and attention."
 }

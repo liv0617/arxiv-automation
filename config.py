@@ -97,6 +97,7 @@ class Config:
             "categories": self.config["categories"],
             "max_results": self.config["max_results"],
             "cache_dir": self.config["cache_dir"],
+            "user_interests": self.config.get("user_interests", ""),
         }
     
     def get_scheduler_config(self) -> Dict:
